@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1319656689"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gl -WG -vewnhi -l -Fi/home/mariuz/Desktop/nn_example/nn_lazarus/lib/i386-linux -Fu/usr/lib/lazarus/0.9.30/lcl/units/i386-linux -Fu/usr/lib/lazarus/0.9.30/lcl/units/i386-linux/gtk2 -Fu/usr/lib/lazarus/0.9.30/packager/units/i386-linux -Fu/home/mariuz/Desktop/nn_example/nn_lazarus/ -Fu. -FU/home/mariuz/Desktop/nn_example/nn_lazarus/lib/i386-linux/ -oneuron -dLCL -dLCLgtk2 neuron.lpr"/>
-</CONFIG>
